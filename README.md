@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @maningreen
 - 👀 I’m interested in programming for funsies
-- 🌱 I’m currently learning c++ and armv8 assembly (not so funsies)
-- 📫 How to reach me @maningreen on discord
+- 🌱 I’m currently learning armv8 assembly (not so funsies)
 - 😄 Pronouns: he him
 - ⚡ Fun fact: i use arch btw
 
