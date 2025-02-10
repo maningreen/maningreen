@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @maningreen
-- 👀 I’m interested in programming for funsies
-- 😄 Pronouns: he him
-- ⚡ Fun fact: i use arch btw
-- i just make little projects, mainly tui's and maybe some more visual library stuff
+Pick something sorta advanced and i've done it poorly 👍
 
 <!---
 maningreen/maningreen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
